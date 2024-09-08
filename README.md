@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eduardo dos Santos Sousa
 
 - 👀 I’m interested in data science, machine learning, artificial intelligence, and mechanical systems modeling.
-- 🌱 I’m currently learning more about deep learning techniques.
+- 🌱 I'm currently learning more about deep learning techniques and cloud computing.
 - 💞️ I’m looking to collaborate on projects that involve solving real-world problems with data-driven solutions.
 - 📫 How to reach me: [Email](mailto:eduardosousa.eds@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eduardo-s-sousa/)
 - 😄 Pronouns: He/Him
