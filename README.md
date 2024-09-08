@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hey there! 👋 I’m Eduardo dos Santos Sousa</h1>
+<h1 align="center">Hey there! 👋 I’m Eduardo dos Santos Sousa</h1>
 
 ###
 
