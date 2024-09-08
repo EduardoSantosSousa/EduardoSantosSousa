@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-###
-
-<img src="https://raw.githubusercontent.com/EduardoSantosSousa/EduardoSantosSousa/output/snake.svg" alt="Snake animation" />
-
-###
