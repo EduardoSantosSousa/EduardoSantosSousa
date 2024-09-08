@@ -9,7 +9,7 @@
 
 ---
 
-I'm a mechanical engineering graduate with a master's degree in the same field. I have extensive experience in mathematical modeling and control of linear 
+I'm a mechanical engineering graduate with a master's degree in the same field. I have experience in mathematical modeling and control of linear 
 and nonlinear mechanical systems, as well as contact dynamics for mechanical systems.
 
 I also have experience in data science, helping business areas solve problems and optimize processes using techniques such as machine learning and AI.
